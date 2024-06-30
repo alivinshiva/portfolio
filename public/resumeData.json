@@ -1,35 +1,34 @@
 {
   "main": {
     "name": "Shivam Kumar",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "occupation": "App & Web Developer ",
+    "description": "Play with binary",
+    "image": "profile2.png",
+    "bio": "Hi there! I am Shivam You might also know me as Alivin Shiva. I've been coding for over 4 years now. An app and web developer passionate about creating smooth and engaging digital experiences. With expertise in both front-end and back-end technologies, I’ve worked on a wide range of projects, from simple websites to complex web applications and mobile apps. My expertise extends to AI and problem-solving, allowing me to tackle challenging projects and come up with innovative solutions. I’m passionate about using technology to turn ideas into reality, and I always strive to make sure every project is both innovative and functional Explore my portfolio to see how I can help bring your digital projects to life.",
+    "contactmessage": "Get in touch with me",
     "email": "alivin612003gmail.com",
     "phone": "+91 7673032928",
     "address": {
-      "street": "",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Patia",
+      "city": "Bhubaneswar",
+      "state": "Odisa"
     },
     "website": "https://alivinshiva.live",
     "resumedownload": "http://papareact.com",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/@alivinshiva",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/alivinshiva",
+        "url": "https://www.facebook.com/alivin.shiva.1/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.x.com/alivinshiva/",
         "className": "fa fa-linkedin"
       },
       {
@@ -51,71 +50,91 @@
         "school": "College of Engineering Bhubaneswar",
         "degree": "Bachelor of Technology , Computer Science",
         "graduated": "July 2025",
-        "description": "Graduated with First Class Honours"
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "React Native",
+        "level": "60%"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "c",
+        "level": "80%"
+      },
+      {
+        "name": "java",
+        "level": "75%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "70%"
+      },
+      {
+        "name": "App Development",
+        "level": "75%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "65%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Hotstar UI clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "Hotstar UI clone",
+        "category": "UI Clone",
+        "image": "hotstar_UI.png",
+        "url": "https://hotstar-clone-alivin-jet.vercel.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "Script Gen AI",
+        "category": "AI writer tool",
+        "image": "Script-Gen-AI.png",
+        "url": "https://script-gen-ai-black.vercel.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "Canvas & Co",
+        "category": "e-commerce",
+        "image": "canvas-n-co.png",
+        "url": "https://canvas-n-co.web.app/"
+      },
+      {
+        "title": "Code Genius",
+        "category": "Android App",
+        "image": "CodeGenius.png",
+        "url": "https://github.com/alivinshiva/CodeGenius"
+      },
+      {
+        "title": "Kali-AI---Intelligent-Programming-Companion",
+        "category": "Android App",
+        "image": "Kali-AI.png",
+        "url": "https://github.com/alivinshiva/Kali-AI---Intelligent-Programming-Companion"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "",
+        "user": ""
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "",
+        "user": ""
       }
     ]
   }
