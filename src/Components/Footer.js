@@ -20,12 +20,13 @@ const Footer = ({ data }) => {
           <ul className="social-links">{networks}</ul>
 
           <ul className="copyright">
-            <li>
-              Made by{" "}
+            <li>{"</> "}
+              & crafted {"❤️ "}
               <a title="Alivin" href="http://alivinshiva.live/">
-                Alivin Shiva
+              <strong>Alivin Shiva.</strong>
               </a>
             </li>
+           
           </ul>
         </div>
         <div id="go-top">
