@@ -95,16 +95,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Hotstar UI clone",
-        "category": "UI Clone",
-        "image": "hotstar_UI.png",
-        "url": "https://hotstar-clone-alivin-jet.vercel.app/"
+        "title": "ArtiZen AI",
+        "category": "AI image manuplation",
+        "image": "ArtizenAI.png",
+        "url": "https://artizen-ai.vercel.app//"
       },
       {
         "title": "Script Gen AI",
         "category": "AI writer tool",
         "image": "Script-Gen-AI.png",
         "url": "https://script-gen-ai-black.vercel.app/"
+      },
+      {
+        "title": "Hotstar UI clone",
+        "category": "UI Clone",
+        "image": "hotstar_UI.png",
+        "url": "https://hotstar-clone-alivin-jet.vercel.app/"
       },
       {
         "title": "Canvas & Co",
